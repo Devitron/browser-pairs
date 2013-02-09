@@ -97,14 +97,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(https://www.pointspot.com/PointSpot/Uploaded/MerchantAds/Bath-&-Body-Image.gif) no-repeat; background-size: contain;}
+.fx {background: url(http://2.bp.blogspot.com/--WJGcfJA21c/T61XwqfWuZI/AAAAAAAAASM/B2UU3naEC9E/s1600/wild+garden.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://sphotos-b.xx.fbcdn.net/hphotos-ash3/c0.0.403.403/p403x403/600978_10151529554055676_1441926196_n.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://www.theperfumegirl.com/perfumes/bath-fragrances/bath-and-body-works/bath-and-body-works-malibu-heat/images/malibu-heat-bath-and-body-works.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://www.punmiris.com/himg/o.13627.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://www.theperfumegirl.com/perfumes/bath-fragrances/bath-and-body-works/bath-and-body-works-love-love-love/images/love-love-love-fragrance-collection.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://m5.paperblog.com/i/38/386895/best-of-2012-body-care-L-UVpnk_.jpeg) no-repeat; background-size: contain;}
+.fm {background: url(http://m5.paperblog.com/i/38/386895/best-of-2012-body-care-L-ecvEWs.jpeg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
